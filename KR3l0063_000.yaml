@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3l0063/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十二
+  hash: sha256:b91c7627c34399fce720371900e7def4c0469982b792a8bd4a0a78b88d470d59
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3l0063_WYG_000-1a, image: WYG1038/WYG1038-0617a.png}
+body:
+  text: 玉照新志小說家類一雜事之屬提要臣等謹案玉照新志六卷宋王明清撰此書多談神怪及瑣事亦間及朝野舊聞及前人逸作所載胡舜申己酉避亂記頗詆諆韓世忠明清不為置辨蓋當時相去甚近毁譽糾紛尚未論定宋齊愈獄牘一條深不滿於李綱則朱子語類亦有是語非好詆諆正人他如王堯臣諫取燕雲疏李長民廣汴都賦姚平仲擬劫塞破敵露布皆載其全文足資參證又如載曾布馮燕水調歌頭排遍七章為詞譜之所未載亦足以見宋時大曲之式蓋明清博物洽聞兼嫻掌故故隨筆記録皆有裨見聞也其曰玉照新志者自序謂得一玉照於永嘉鮑子正又獲米南宫書玉照二字揭之寓舍因以名其所著書云乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:5a03a2df28a37a7777146be412d64098a48a876730a0858e4dc3a1b373855cbb
+metadata:
+  title: 玉照新志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:39:07.199276'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3l0063/KR3l0063_000.txt
+hash: sha256:0fb0631ff72f10b4634210121d0ede92074293635b3f751c622c314348a231f2
